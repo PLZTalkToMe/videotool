@@ -22,10 +22,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.ArrayBlockingQueue;
 
-
-/**
- * @author lwg
- */
 public class Main extends JFrame {
 
     private static List videoFormats = Arrays.asList("mp4", "mpeg4", "mpg4", "avi", "3gp", "rmvb", "rm",
